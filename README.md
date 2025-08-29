@@ -21,7 +21,7 @@ Scikit-learn
 
 Usage
 
-Clone the repository:git clone https://github.com/your-username/brain-tumor-classification.git
+Clone the repository:git clone https://github.com/MohamedAchraf22/Brain-Tumor-Classification-Using-Resnet50.git
 
 
 Install dependencies:pip install -r requirements.txt
@@ -33,14 +33,14 @@ Run the Brain_Tumor_Classification.ipynb notebook to preprocess data, train the 
 Dataset
 The dataset should be organized as follows:
 brain_tumor_dataset/
-├── Training/
-│   ├── glioma_tumor/
-│   ├── meningioma_tumor/
-│   ├── ...
-└── Testing/
-    ├── glioma_tumor/
-    ├── meningioma_tumor/
-    ├── ...
+Training/
+glioma_tumor/
+meningioma_tumor/
+...
+ Testing/
+ glioma_tumor/
+ meningioma_tumor/
+ ...
 
 Results
 
